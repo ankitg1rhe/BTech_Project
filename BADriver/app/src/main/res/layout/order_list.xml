@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="168dp"
+    android:background="@color/background"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/order_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textAllCaps="true"
+            android:textColor="@color/titleColor"
+            android:textSize="16sp"
+            tools:text="2018-09-24 10:54:24" />
+
+
+        <TextView
+            android:id="@+id/order_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textAllCaps="true"
+            android:textColor="@color/titleColor"
+            android:textSize="16sp"
+            tools:text="2018-09-24 10:54:24" />
+
+        <TextView
+            android:id="@+id/from_source"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:textColor="@color/colorBlack"
+            tools:text="From HERE" />
+
+        <TextView
+            android:id="@+id/to_destination"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:textColor="@color/colorBlack"
+            tools:text="To THERE" />
+
+        <TextView
+            android:id="@+id/no_of_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:textColor="@color/colorBlack"
+            tools:text="Number of Customer" />
+
+        <TextView
+            android:id="@+id/order_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:textColor="@color/colorBlack"
+            tools:text="Number" />
+
+        <TextView
+            android:id="@+id/customer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="monospace"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:textColor="@color/colorBlack"
+            tools:text="Name of customer" />
+
+    </LinearLayout>
+
+</FrameLayout>

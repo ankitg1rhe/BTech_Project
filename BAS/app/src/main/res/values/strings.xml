@@ -1,0 +1,69 @@
+<resources>
+    <!-- App related strings -->
+    <string name="app_name">BHU Auto Services</string>
+    <string name="title">BHU\nAuto Services</string>
+
+
+    <!-- order related strings -->
+    <string name="title_activity_order">BHU Auto Services</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Your Name</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- summary related -->
+    <string name="empty_view_subtitle_text">You have not orederd anything yet</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+
+    <!-- Important-->
+    <string name="source_name">Source :</string>
+    <string name="destination">Destination :</string>
+    <string name="customer">No of customers:</string>
+
+    <!-- Locations in BHU -->
+    <string name="hostel_1">CV Raman Hostel</string>
+    <string name="hostel_2">Dhanrajgiri Corner</string>
+    <string name="hostel_3">Health Center</string>
+    <string name="hostel_4">Limbdi Corner</string>
+    <string name="hostel_5">Morvi Hostel</string>
+    <string name="hostel_6">Ramanujan Hostel</string>
+    <string name="hostel_7">Swatantrata Bhavan</string>
+    <string name="hostel_8">Vishwakarma Hostel</string>
+    <string name="hostel_9">Vivekanand Hostel</string>
+    <string name="hostel_10">Lanaka Gate</string>
+    <string name="hostel_11">Vishwanath Temple</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">6-DIGIT PIN</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Create New Account</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <!-- Ad related strings -->
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <!-- Alert related string -->
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+    <string name="builder_message">Are you sure?</string>
+
+</resources>

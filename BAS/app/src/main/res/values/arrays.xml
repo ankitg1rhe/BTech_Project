@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the source drop-down Spinner -->
+    <string-array name="array_source_option">
+        <item>@string/hostel_1</item>
+        <item>@string/hostel_2</item>
+        <item>@string/hostel_3</item>
+        <item>@string/hostel_4</item>
+        <item>@string/hostel_5</item>
+        <item>@string/hostel_6</item>
+        <item>@string/hostel_7</item>
+        <item>@string/hostel_8</item>
+        <item>@string/hostel_9</item>
+    </string-array>
+
+    <string-array name="array_destination_option">
+        <item>@string/hostel_1</item>
+        <item>@string/hostel_2</item>
+        <item>@string/hostel_3</item>
+        <item>@string/hostel_4</item>
+        <item>@string/hostel_5</item>
+        <item>@string/hostel_6</item>
+        <item>@string/hostel_7</item>
+        <item>@string/hostel_8</item>
+        <item>@string/hostel_9</item>
+        <item>@string/hostel_10</item>
+        <item>@string/hostel_11</item>
+    </string-array>
+</resources>
