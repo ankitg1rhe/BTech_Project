@@ -38,8 +38,8 @@
 			$mail->SMTPSecure = 'tls';
 			$mail->Port = 587;
 			$mail->SMTPAuth = true;
-			$mail->Username = "ankitgirhe02@gmail.com";
-			$mail->Password = "Ank1t@1997";
+			$mail->Username = "xxxxxxxx@gmail.com";
+			$mail->Password = "************";
 			$mail->setFrom('no_reply@bhuas.com', 'BHU Auto Services');
 			$mail->AddAddress($email);
 			$mail->Subject = 'Verify your email...';
